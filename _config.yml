@@ -1,0 +1,28 @@
+name: ChangeitAll
+favicon: null
+layout_spectrum: 0.6982736641075462
+typography_spectrum: 0.5693137780763209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11262779613025486
+  lightness: 0.15759311593137681
+  saturation: 0.7241652398370206
+  rhythmicContrast: 0.46632643486373127
+purpose: []
