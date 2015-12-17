@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ChangeitAll]]></title>
         <description><![CDATA[ChangeitAll]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/changeitall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 04:42:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 05:05:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/changeitall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to ChangeitAll.  An idea that will change it all.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa89e073-ede3-4cfc-88bc-5ce75f5a324a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/changeitall/welcome/index.html</link>
+            <guid isPermaLink="false">ff94c2f1-df67-4fc6-866c-64aff8c8e34f</guid>
+            <pubDate>Thu, 17 Dec 2015 05:05:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/changeitall/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">00094035-01e0-4966-9d18-30136656de57</guid>
             <pubDate>Thu, 17 Dec 2015 04:42:35 GMT</pubDate>
         </item>
