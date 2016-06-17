@@ -1,4 +1,4 @@
-name: ChangeitAll
+name: Roman's Chiro
 favicon: null
 layout_spectrum: 0.12726
 typography_spectrum: 0.5693137780763209
@@ -22,7 +22,7 @@ color:
     - '#587b68'
     - '#accab7'
   brandStrength: 0.11262779613025486
-  lightness: 0.25
+  lightness: 0.5
   saturation: 0.7241652398370206
   rhythmicContrast: 0.46632643486373127
 purpose: []
